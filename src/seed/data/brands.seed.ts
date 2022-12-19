@@ -18,4 +18,56 @@ export const BRANDS_SEED: Brand[] =[
         name: 'Tesla',
         createdAt: new Date().getTime(),
     },
+    // BASE DE DATOS
+    {
+        id: uuid(),
+        name: 'Volvo',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Subaru',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Porsche',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Mitsubishi',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Mazda',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Lamborghini',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Hyundai',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Ford',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Audi',
+        createdAt: new Date().getTime(),
+    },
+    {
+        id: uuid(),
+        name: 'Ferrari',
+        createdAt: new Date().getTime(),
+    },
+
 ]
